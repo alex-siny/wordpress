@@ -1,0 +1,4 @@
+wordpress
+=========
+
+Latest WordPress version
